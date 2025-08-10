@@ -39,8 +39,8 @@ I love solving business problems with **data storytelling, dashboards, and predi
 ---
 
 ## 📊 GitHub Stats
-![Pragati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Pragati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pragati928&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragati928&layout=compact&theme=tokyonight)
 
 ---
 
