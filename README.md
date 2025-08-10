@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=7F56D9&width=750&height=80&lines=Hi+there,+I'm+Pragati👋;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+data+into+insights+%26+decisions;Open+to+Remote+%26+Freelance+Opportunities" alt="Typing animation — Pragati" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=7F56D9&width=750&height=80&lines=Hi+there,+I'm+Pragati👋;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+data+into+insights+%26+decisions;Open+to+Full+Time+Remote+%26+Freelance+Opportunities" alt="Typing animation — Pragati" />
 </p>
 
 ---
