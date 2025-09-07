@@ -32,7 +32,7 @@ I love solving business problems with **data storytelling, dashboards, and predi
 |---------|-------------|-------|
 | **UPI-Transactions-Dashboard** | UPI Transactions Data Analysis Dashboard built using SQL, Power BI, Python, and Excel. Provides insights into customer demographics, merchant performance, transaction success rates, and monthly trends. | Python, SQL, Power BI |
 | **Indian Health Insurance Analysis** | Analyzed trends & visualized 2.5x increase in insured individuals over 5 years | Python, Power BI |
-| **Airlines Dashboard** | Service performance & passenger satisfaction analysis | Power BI |
+| **Panic Attack Data Analysis Dashboard** | Comprehensive Insights into Panic Attack Severity, Triggers, Symptoms, and Patient Demographics | Snowflake, SQL, Power BI Desktop, Power Query, DAX, Excel & Python|
 | **Sales Performance & Insights Dashboard** | Interactive Power BI dashboard analyzing sales trends, product performance, and regional insights.| Excel, Power BI |
 | **Integrated Real Estate Solution** | Full-cycle data pipeline from collection to deployment | Python, SQL, Power BI |
 
