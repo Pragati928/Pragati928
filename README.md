@@ -36,6 +36,8 @@ I love solving business problems with **data storytelling, dashboards, and predi
 | **Sales Performance & Insights Dashboard** | Interactive Power BI dashboard analyzing sales trends, product performance, and regional insights.| Excel, Power BI |
 | **Integrated Real Estate Solution** | Full-cycle data pipeline from collection to deployment | Python, SQL, Power BI |
 | **Cancer-Severity-Prediction-ML** | End-to-end data science project predicting cancer severity using Python, EDA, and Random Forests — focusing on lifestyle and genetic factors. | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) · Jupyter Notebook · Git & GitHub · Anaconda · Data Cleaning · EDA · Machine Learning (Random Forest) · Data Visualization |
+| **Inventory & Supply Chain Management Dashboard** | Real-time inventory tracking, sales analytics, low-stock alerts, reorder automation, and supplier management | Python, Streamlit, SQL Server, PyODBC, Pandas, Plotly |
+
 
 
 
